@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallfawn&layout=compact)](https://github.com/QkongZ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QkongZ&layout=compact)](https://github.com/QkongZ)
 
-![](https://count.getloli.com/get/@smallfawn)
-![](http://moecount.glitch.me/get/@smallfawn?theme=rule34)
+![](https://count.getloli.com/get/@QkongZ)
+![](http://moecount.glitch.me/get/@QkongZ?theme=rule34)
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
