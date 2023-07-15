@@ -64,6 +64,6 @@
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=QkongZ&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+    <!-- td --><img src="https://github-readme-activity-graph.cyclic.app/graph?username=QkongZ&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/><!-- td -->
   </tr>
 </table>
